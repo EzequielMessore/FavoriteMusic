@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Músicas Favoritas</string>
+
+    <string name="title_math">Math</string>
+    <string name="title_like">Favoritas</string>
+
+    <string name="action_search">Pesquisar</string>
+    <string name="msg_music_save">%s adicionada as favoritas</string>
+</resources>

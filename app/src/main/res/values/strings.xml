@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FavoriteMusic</string>
+
+    <string name="title_math">Math</string>
+    <string name="title_like">Like</string>
+
+    <string name="action_search">Search</string>
+    <string name="content_description">content_description</string>
+    <string name="msg_music_save">%s added to favorites</string>
+</resources>
